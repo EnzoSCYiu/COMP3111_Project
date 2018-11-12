@@ -10,7 +10,7 @@
 
 ## Introduction
 
-You are going to form a team of three to work on a project. The project is about web scraping - obtaining and analysis data
+to form a team of three to work on a project. The project is about web scraping - obtaining and analysis data
 from some websites automatically. You are given a skeleton code written in Java 8 that is already able to use a keyword to
 fetch some data from Craiglist. Please try the [demo program](demo.jar) to have a better idea of what the skeleton code can 
 do. You need Java 8 JDK to run and develop it. At the end of the file there is a guide to compile the project.
